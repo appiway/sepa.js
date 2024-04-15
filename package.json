@@ -32,5 +32,8 @@
   },
   "engines": {
     "node": "*"
+  },
+  "publishConfig": {
+    "@appiway:sepa": "https://npm.pkg.github.com"
   }
 }
